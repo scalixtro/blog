@@ -1,6 +1,7 @@
 Primer archivo del proyecto.
 
  Agregar descripción.
+ Estoy terminando sexto semestre de Bionica.
 
  Fin del archivo.
 
