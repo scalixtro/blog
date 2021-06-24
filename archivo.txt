@@ -5,7 +5,4 @@ Primer archivo del proyecto.
 
  Fin del archivo.
 
-Epílogo del documento.
-
-Empieza una nueva historia.
-Comienza el septimo semestre de la carrera.
+No hay epilogo del documento
