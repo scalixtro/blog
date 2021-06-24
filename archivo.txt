@@ -8,3 +8,4 @@ Primer archivo del proyecto.
 Epílogo del documento.
 
 Empieza una nueva historia.
+Comienza el septimo semestre de la carrera.
