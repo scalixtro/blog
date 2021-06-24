@@ -7,4 +7,4 @@ Primer archivo del proyecto.
 
 Epílogo del documento.
 
-Segunda cosa
+Empieza una nueva historia.
