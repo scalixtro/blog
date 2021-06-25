@@ -1,5 +1,18 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: cadetblue;
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+#post {
+    margin: 0;
+    padding: 0;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+}
+
+#container h1 {
+    font-size: 20px;
 }
