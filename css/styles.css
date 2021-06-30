@@ -77,3 +77,14 @@ body {
     padding: 0;
     width: 100%;
 }
+
+#img-ballena {
+    margin: 10px;
+    padding: 0;
+}
+
+#img-ballena img {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
