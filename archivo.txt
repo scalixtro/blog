@@ -4,6 +4,7 @@ Primer archivo del proyecto.
  Estoy terminando sexto semestre de Bionica.
 
 Experimento 1
+Experimento 2
 Master 1
 
 Master 2
