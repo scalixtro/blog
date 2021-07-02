@@ -4,3 +4,4 @@ Blog para el curso de Git y Github de Platzi
 
 * Este repo fue creado por Said
 * La fecha de hoy es 02/07/2021
+* Desde Ecatepec para el mundo
